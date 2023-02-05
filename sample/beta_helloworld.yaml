@@ -63,7 +63,7 @@ spec:
   hosts:
     - "*"
   gateways:
-    - alpha-gateway
+    - beta-gateway
   http:
     - route:
         - destination:
